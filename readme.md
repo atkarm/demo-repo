@@ -1,3 +1,3 @@
 # readme
 
-This is new description.
+This is the second description.
